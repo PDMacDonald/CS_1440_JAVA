@@ -1,0 +1,1000 @@
+triangle 385.64 796.55
+circle 455.71
+triangle 697.73 261.17
+circle 273.11
+triangle 1051.95 879.48
+triangle 425.96 772.16
+square 864.19
+circle 390.27
+square 323.22
+circle 386.7
+circle 1003.6
+triangle 188.89 989.96
+triangle 324.14 933.03
+square 846.9
+square 869.53
+circle 641.81
+square 756.87
+square 764.55
+circle 402.45
+square 564.27
+triangle 138.91 534.78
+triangle 465.89 913.48
+square 949.98
+triangle 566.66 875.49
+square 497.09
+triangle 964.1 291.57
+triangle 289.45 632.55
+square 660.25
+triangle 420.32 695.16
+square 620.2
+circle 917.06
+circle 250.21
+square 414.64
+circle 930.07
+square 776.89
+triangle 972.09 901.01
+circle 1077.87
+circle 599.35
+circle 109.47
+circle 348.01
+square 264.86
+square 493.54
+circle 508.47
+square 170.11
+circle 130.39
+triangle 363.36 1006.56
+triangle 539.28 167.38
+triangle 570.33 944.95
+triangle 978.88 847.8
+circle 421.71
+circle 836.14
+square 692.47
+square 331.32
+square 919.9
+triangle 946.8 110.14
+circle 1021.21
+square 835.53
+triangle 141.78 378.83
+triangle 770.62 385.55
+triangle 263.24 581.41
+triangle 702.9 437.97
+triangle 243.97 756.86
+triangle 385.72 606.66
+circle 885.56
+triangle 475.46 927.59
+square 414.76
+square 148.97
+square 558.65
+triangle 809.17 111.08
+square 532.17
+circle 745.11
+circle 387.8
+triangle 794.12 238.03
+square 739.77
+square 585.18
+triangle 639.87 285.41
+square 855.23
+circle 998.02
+triangle 129.02 459.12
+triangle 139.98 651.67
+square 795.3
+square 432.78
+square 921.67
+circle 824.22
+triangle 979.97 906.55
+square 564.64
+square 786.24
+square 498.57
+triangle 415.09 366.67
+circle 272.18
+square 409.82
+triangle 157.4 352.96
+square 349.68
+circle 1033.86
+triangle 594.31 1093.51
+triangle 604.26 194.68
+triangle 577.34 636.57
+circle 732.99
+triangle 845.5 343.24
+triangle 141.19 802.32
+circle 279.48
+circle 412.18
+circle 752.21
+circle 782.08
+circle 445.76
+triangle 444.51 387.18
+circle 359.68
+square 397.62
+square 799.99
+triangle 352.97 386.13
+triangle 592.02 433.85
+square 971.48
+square 771.19
+circle 561.8
+triangle 201.33 422.2
+square 496.54
+square 574.38
+triangle 523.22 1006.79
+triangle 959.2 194.15
+square 381.89
+circle 400.83
+triangle 915.5 555.81
+circle 158.01
+circle 114.54
+square 879.99
+circle 423.42
+square 196.72
+circle 907.72
+square 477.86
+circle 846.79
+triangle 947.86 190.78
+square 969.3
+triangle 833.2 701.84
+triangle 231.0 314.24
+square 377.68
+square 895.95
+circle 1090.58
+triangle 355.31 799.72
+triangle 1073.33 733.46
+square 120.64
+square 814.73
+circle 684.79
+square 814.69
+triangle 370.45 877.48
+triangle 523.2 346.11
+square 1057.82
+square 353.12
+circle 965.95
+triangle 104.94 199.86
+square 415.03
+triangle 114.95 268.94
+circle 597.36
+circle 245.69
+triangle 898.66 432.67
+circle 842.83
+circle 347.49
+circle 1026.36
+triangle 585.78 399.03
+triangle 465.94 253.98
+triangle 644.1 390.83
+circle 293.61
+square 290.67
+circle 216.9
+square 175.01
+circle 485.06
+square 401.34
+square 1053.43
+triangle 344.18 222.8
+triangle 843.06 880.1
+square 152.08
+triangle 657.9 261.38
+circle 203.42
+square 277.32
+circle 534.16
+square 435.58
+circle 956.22
+triangle 241.8 149.41
+circle 637.73
+circle 104.9
+triangle 254.85 127.45
+circle 301.72
+triangle 479.13 844.43
+triangle 904.03 948.58
+square 157.44
+triangle 513.03 795.98
+triangle 267.26 362.76
+circle 727.39
+square 1017.48
+triangle 568.5 219.3
+circle 528.42
+square 207.47
+square 771.23
+square 349.75
+triangle 200.63 812.37
+circle 993.07
+triangle 346.38 349.22
+square 1012.96
+square 666.7
+circle 650.8
+square 420.39
+circle 657.36
+triangle 311.22 464.92
+square 1057.95
+triangle 955.96 959.14
+circle 837.16
+square 586.27
+square 866.99
+triangle 718.7 162.24
+circle 675.14
+circle 582.68
+square 166.47
+triangle 129.3 240.48
+triangle 126.58 928.47
+square 380.26
+triangle 355.85 588.04
+circle 607.74
+circle 205.2
+triangle 388.32 336.48
+circle 182.04
+square 793.13
+square 844.99
+square 335.21
+circle 1031.2
+triangle 971.68 705.83
+triangle 941.81 689.77
+square 292.69
+triangle 881.25 222.58
+triangle 583.05 261.85
+circle 1098.51
+circle 849.18
+circle 311.68
+triangle 778.01 348.21
+square 235.75
+circle 650.18
+triangle 709.3 915.75
+circle 107.91
+circle 799.69
+square 529.71
+triangle 902.0 431.6
+circle 276.03
+triangle 101.18 481.64
+triangle 594.45 844.99
+square 646.71
+square 186.56
+square 190.55
+triangle 709.99 1043.7
+triangle 807.21 989.13
+circle 401.97
+circle 794.73
+square 718.6
+square 909.65
+triangle 570.21 139.95
+circle 509.36
+circle 166.46
+circle 941.01
+circle 424.53
+square 1023.76
+square 283.73
+circle 342.67
+circle 587.4
+square 585.88
+triangle 781.66 940.91
+triangle 1049.5 975.01
+triangle 595.38 844.54
+square 740.75
+square 131.47
+circle 805.83
+square 449.15
+triangle 797.29 257.75
+triangle 1049.57 569.04
+triangle 260.3 1056.59
+triangle 858.98 141.26
+triangle 447.12 514.31
+triangle 546.42 124.16
+circle 823.77
+triangle 265.7 997.0
+circle 249.4
+square 1020.19
+circle 878.14
+circle 199.43
+circle 383.69
+square 711.4
+circle 932.41
+square 316.54
+circle 106.25
+square 170.69
+square 772.86
+triangle 906.35 960.81
+square 1080.75
+triangle 220.83 1022.52
+circle 347.76
+triangle 814.45 576.28
+circle 248.49
+triangle 250.02 472.89
+triangle 728.85 276.11
+triangle 923.11 965.11
+circle 694.01
+square 851.9
+square 898.27
+circle 881.61
+circle 1006.53
+square 950.58
+triangle 505.85 903.16
+square 266.97
+triangle 676.74 572.62
+square 839.86
+square 873.63
+circle 614.3
+triangle 419.41 242.39
+triangle 335.03 751.67
+circle 786.91
+triangle 536.09 225.94
+triangle 422.76 348.8
+circle 262.08
+circle 422.8
+square 141.73
+triangle 547.92 828.27
+triangle 1091.56 159.11
+circle 364.18
+circle 1021.54
+circle 1014.71
+triangle 319.51 759.21
+triangle 1014.33 650.92
+square 270.28
+square 667.79
+circle 118.02
+triangle 749.37 1098.96
+triangle 995.68 767.16
+square 559.0
+circle 271.57
+circle 433.17
+square 976.68
+square 1083.15
+triangle 523.58 193.48
+square 937.08
+circle 429.77
+circle 217.52
+square 704.93
+square 355.13
+triangle 344.42 1024.26
+circle 159.36
+circle 1094.7
+triangle 420.77 577.22
+square 378.0
+circle 463.86
+square 799.71
+square 449.55
+triangle 340.44 512.24
+square 296.3
+square 653.48
+square 101.2
+square 1073.98
+square 662.32
+triangle 797.47 886.78
+triangle 759.27 493.42
+circle 811.45
+square 636.67
+square 662.1
+square 1080.82
+square 1026.6
+square 779.02
+triangle 446.4 935.86
+circle 614.84
+circle 293.37
+circle 934.19
+circle 813.39
+circle 566.44
+triangle 252.24 795.74
+triangle 395.37 317.82
+circle 700.93
+triangle 938.32 294.33
+square 766.46
+circle 1001.49
+square 583.66
+triangle 778.88 1045.85
+square 111.8
+circle 688.6
+square 199.95
+square 808.22
+square 899.59
+square 885.08
+square 175.75
+triangle 237.32 352.97
+triangle 364.95 320.14
+square 511.9
+circle 875.89
+triangle 465.92 484.8
+circle 263.66
+triangle 1061.04 205.84
+circle 619.01
+triangle 992.8 176.95
+circle 535.23
+triangle 801.1 678.38
+circle 572.31
+square 338.69
+circle 634.81
+circle 673.29
+triangle 781.98 346.99
+circle 526.62
+square 454.63
+circle 169.51
+square 507.4
+circle 760.96
+triangle 504.52 574.31
+circle 892.84
+circle 391.68
+circle 358.78
+square 1009.99
+square 949.23
+circle 192.85
+circle 467.06
+triangle 526.63 666.68
+triangle 1039.03 130.68
+square 1084.14
+circle 272.42
+triangle 146.09 137.2
+square 926.05
+square 480.04
+square 318.34
+square 100.68
+circle 397.57
+circle 1069.12
+triangle 107.81 731.53
+triangle 947.05 379.75
+circle 1011.03
+triangle 643.95 652.5
+square 147.82
+circle 843.59
+square 349.69
+circle 153.33
+square 456.18
+square 184.51
+triangle 233.29 1048.25
+square 204.02
+circle 710.22
+circle 427.49
+square 919.24
+circle 1039.02
+triangle 562.58 987.98
+triangle 304.37 1066.35
+triangle 505.8 203.31
+triangle 709.81 739.67
+square 1004.79
+circle 581.43
+triangle 792.39 282.49
+square 847.94
+circle 546.13
+square 485.83
+circle 303.77
+circle 1017.12
+triangle 466.4 842.25
+square 235.04
+square 236.59
+triangle 544.83 1051.83
+triangle 955.29 822.82
+triangle 642.02 946.98
+triangle 318.38 299.91
+triangle 253.3 974.62
+square 877.66
+square 501.52
+square 553.57
+square 723.9
+triangle 1057.65 836.1
+square 431.57
+circle 429.87
+triangle 1092.14 567.09
+triangle 366.57 873.98
+triangle 979.47 179.48
+triangle 770.27 875.9
+triangle 484.7 1010.37
+circle 183.2
+circle 879.49
+square 919.4
+triangle 1028.26 109.0
+circle 476.01
+square 227.58
+square 1026.06
+triangle 810.52 640.28
+circle 408.07
+square 179.0
+square 385.39
+square 614.79
+circle 1097.77
+triangle 524.13 673.02
+triangle 203.92 1018.12
+circle 281.72
+circle 318.57
+circle 683.26
+square 734.3
+triangle 325.47 705.08
+triangle 1018.29 1036.15
+triangle 892.36 417.4
+square 895.33
+square 105.18
+triangle 772.72 494.01
+triangle 799.63 1088.79
+circle 754.0
+square 1069.98
+circle 651.36
+circle 1019.68
+square 851.19
+triangle 942.8 458.82
+circle 692.5
+circle 611.37
+circle 472.96
+circle 380.64
+circle 322.79
+triangle 883.36 115.93
+triangle 803.98 756.94
+circle 963.67
+square 964.83
+square 968.85
+square 306.79
+square 415.25
+square 694.46
+circle 1030.39
+triangle 190.31 369.78
+circle 747.37
+circle 862.34
+square 540.03
+triangle 784.1 615.46
+circle 181.81
+triangle 689.81 194.16
+square 713.32
+square 158.09
+triangle 844.88 794.52
+square 129.58
+square 339.64
+circle 1085.6
+triangle 277.79 967.58
+circle 101.7
+circle 684.83
+circle 154.28
+circle 356.1
+square 594.32
+square 356.46
+square 805.93
+square 689.0
+circle 788.74
+triangle 431.45 671.85
+triangle 943.81 576.75
+square 968.25
+triangle 357.03 871.55
+square 543.85
+square 1051.43
+triangle 981.74 620.02
+triangle 884.87 558.84
+triangle 694.56 1019.79
+circle 122.05
+circle 789.78
+triangle 169.44 326.88
+circle 384.4
+square 939.56
+square 157.73
+triangle 244.71 327.03
+square 709.78
+circle 996.91
+triangle 944.86 105.63
+triangle 387.48 689.68
+circle 855.34
+triangle 715.52 119.29
+triangle 469.74 979.82
+circle 913.3
+circle 472.33
+triangle 465.55 269.42
+square 105.23
+triangle 349.76 824.46
+circle 376.28
+square 286.64
+triangle 655.16 794.59
+square 118.11
+triangle 277.34 734.51
+triangle 462.6 485.01
+circle 792.18
+circle 101.04
+triangle 950.64 702.26
+circle 994.26
+circle 840.55
+triangle 581.0 943.32
+circle 475.16
+circle 885.62
+square 669.82
+triangle 287.74 899.11
+circle 959.93
+square 679.7
+square 361.22
+square 790.85
+triangle 585.39 836.63
+circle 145.66
+triangle 351.27 408.19
+triangle 126.6 160.57
+triangle 547.38 460.54
+circle 440.28
+circle 815.78
+circle 1058.41
+triangle 461.86 967.37
+triangle 1099.34 677.51
+triangle 300.47 392.14
+circle 918.84
+triangle 341.24 241.75
+square 616.22
+circle 401.42
+circle 769.59
+square 215.39
+square 1050.59
+triangle 911.62 870.87
+triangle 1073.95 608.53
+circle 253.04
+circle 995.6
+square 805.64
+circle 1066.35
+square 296.76
+square 451.77
+triangle 1041.33 737.14
+triangle 541.4 891.86
+circle 519.5
+circle 432.26
+square 420.63
+triangle 190.74 418.8
+square 585.08
+square 488.05
+circle 614.89
+circle 788.86
+circle 104.36
+square 310.36
+triangle 526.19 936.77
+triangle 748.97 897.53
+triangle 276.17 140.16
+square 731.08
+square 737.23
+square 477.59
+square 529.27
+triangle 541.13 152.11
+circle 856.8
+square 186.6
+triangle 943.07 339.63
+square 690.55
+triangle 1058.86 1060.33
+circle 822.39
+circle 650.16
+square 513.89
+circle 398.3
+triangle 902.04 616.03
+triangle 134.06 786.04
+circle 953.79
+circle 486.9
+triangle 790.03 435.06
+square 256.24
+triangle 105.74 704.22
+triangle 503.83 887.69
+square 759.27
+triangle 922.86 832.0
+square 950.45
+triangle 265.96 947.02
+circle 408.28
+triangle 1002.18 880.47
+triangle 850.34 198.2
+square 279.17
+circle 373.01
+circle 486.04
+circle 857.59
+square 932.88
+triangle 407.45 1033.19
+square 721.44
+triangle 116.78 755.69
+square 272.57
+square 237.87
+circle 991.51
+square 703.2
+circle 523.72
+circle 238.11
+triangle 372.62 298.55
+triangle 961.91 295.53
+square 972.59
+circle 645.35
+triangle 287.64 694.4
+square 437.16
+triangle 1037.83 855.2
+triangle 904.82 992.11
+circle 954.3
+triangle 976.71 601.93
+square 736.23
+triangle 541.32 479.91
+circle 407.96
+square 609.34
+circle 724.98
+circle 619.22
+circle 1086.46
+triangle 722.22 677.45
+triangle 532.67 475.48
+square 782.18
+circle 350.65
+triangle 973.01 104.68
+triangle 818.16 424.94
+circle 596.68
+circle 914.62
+square 124.68
+circle 490.38
+triangle 494.46 295.38
+triangle 970.83 618.39
+triangle 998.15 214.11
+circle 1067.4
+circle 402.43
+circle 895.68
+square 981.7
+circle 500.08
+triangle 923.87 964.49
+circle 179.66
+triangle 963.09 453.05
+circle 155.06
+triangle 465.14 619.04
+triangle 501.57 385.81
+triangle 238.82 991.75
+triangle 175.32 196.89
+triangle 210.15 761.75
+circle 113.25
+circle 881.56
+square 506.45
+square 240.47
+triangle 540.23 153.86
+triangle 752.37 847.67
+triangle 1032.04 418.04
+square 1010.08
+circle 286.55
+triangle 869.29 974.71
+circle 867.25
+triangle 471.88 948.97
+circle 1037.68
+triangle 899.04 268.39
+circle 1097.84
+circle 401.45
+square 1023.6
+circle 636.41
+square 863.56
+triangle 876.21 638.35
+circle 919.88
+square 248.97
+triangle 522.0 1090.48
+square 829.98
+square 650.48
+circle 807.31
+circle 232.21
+square 750.94
+circle 457.62
+square 804.03
+triangle 660.49 483.98
+circle 829.21
+triangle 238.3 515.5
+square 609.69
+square 388.55
+circle 233.5
+square 246.9
+circle 1024.62
+square 681.54
+circle 755.38
+triangle 313.74 654.69
+square 551.22
+circle 771.4
+circle 547.11
+square 255.76
+square 1050.62
+triangle 737.59 221.96
+circle 940.94
+square 778.41
+circle 1000.81
+circle 879.02
+square 993.13
+square 828.11
+square 694.95
+square 754.51
+square 477.12
+triangle 399.52 938.84
+circle 621.25
+triangle 149.39 498.34
+square 866.39
+triangle 828.05 1078.86
+circle 1071.55
+triangle 410.04 1094.28
+square 649.01
+square 849.41
+circle 695.93
+square 160.29
+triangle 134.85 217.56
+triangle 1092.43 219.99
+circle 104.27
+square 278.75
+square 983.24
+circle 983.37
+circle 666.09
+square 602.41
+square 958.7
+circle 884.65
+square 353.87
+triangle 1093.99 1029.6
+circle 346.75
+triangle 813.97 282.74
+triangle 211.7 800.56
+square 1063.15
+triangle 730.62 565.9
+circle 902.79
+triangle 519.88 816.7
+square 1076.22
+triangle 388.12 477.58
+square 887.93
+triangle 955.69 303.44
+square 523.96
+square 703.97
+circle 523.08
+triangle 711.68 184.6
+square 235.18
+triangle 310.33 549.85
+square 630.61
+triangle 526.72 424.31
+circle 291.51
+circle 755.92
+circle 949.8
+triangle 410.22 528.25
+square 387.64
+circle 184.35
+square 799.1
+triangle 124.78 364.12
+triangle 826.6 668.52
+square 653.57
+circle 102.87
+square 946.27
+triangle 561.43 1048.38
+square 852.93
+square 990.48
+circle 1049.58
+square 997.44
+triangle 877.64 846.06
+circle 699.04
+square 388.28
+square 557.9
+square 294.94
+triangle 227.36 1051.69
+triangle 146.3 1026.83
+square 957.54
+triangle 1080.94 313.16
+circle 1000.93
+triangle 949.37 677.1
+circle 759.13
+circle 397.65
+circle 377.32
+square 1005.23
+square 799.82
+triangle 610.37 374.53
+circle 989.64
+triangle 813.54 660.55
+circle 383.78
+square 1017.3
+circle 119.72
+triangle 317.05 1031.53
+square 148.01
+circle 366.76
+triangle 684.72 795.71
+square 270.74
+square 1050.87
+circle 800.82
+triangle 350.38 475.45
+circle 419.98
+square 367.94
+square 400.19
+circle 1052.37
+square 644.77
+square 985.58
+circle 248.07
+circle 644.38
+square 581.25
+circle 1058.33
+square 303.86
+square 158.35
+circle 580.56
+circle 619.63
+circle 275.59
+circle 598.26
+circle 151.03
+square 469.18
+triangle 502.36 412.72
+triangle 1085.13 234.27
+square 589.1
+triangle 367.2 547.28
+square 454.69
+square 266.55
+circle 805.59
+circle 299.57
+circle 855.86
+square 441.52
+circle 895.75
+circle 341.17
+circle 495.29
+circle 991.31
+triangle 607.56 783.68
+square 421.75
+square 268.4
+triangle 886.47 485.18
+square 435.15
+triangle 772.01 871.38
+square 536.97
+triangle 647.96 910.73
+triangle 972.55 279.18
+circle 919.45
+square 1047.76
+square 760.51
+square 193.27
+square 388.48
+square 1067.16
+circle 355.82
+square 1042.07
+triangle 923.02 543.01
+circle 679.82
+triangle 185.36 394.97
+square 1071.22
+triangle 933.66 236.17
+square 474.96
+circle 221.24
+triangle 632.56 426.94
+circle 828.96
+circle 790.82
+circle 230.28
+triangle 1078.58 463.41
+square 690.44
+circle 315.88
+square 487.93
+circle 869.67
+circle 637.01
+triangle 547.74 651.33
+triangle 529.23 775.4
+square 598.63
+square 186.77
+circle 525.81
+circle 766.1
+triangle 131.73 1078.37
+triangle 437.37 1097.59
+circle 735.21
+square 228.28
+square 557.52
+triangle 725.06 845.51
+triangle 697.62 1085.24
+circle 771.77
+square 1052.99
+circle 248.66
+triangle 579.82 654.6
+square 166.23
+triangle 155.87 936.96
+circle 888.4
+square 712.15
+triangle 965.7 567.14
+circle 1072.75
+square 224.12
+triangle 817.04 545.94
+square 467.26
+triangle 998.01 258.16
+square 812.63
+circle 718.77
+circle 267.1
+circle 1082.33
+triangle 266.45 510.86
+triangle 667.16 154.54
+triangle 279.93 407.07
+square 395.49
+circle 514.81
+circle 184.58
+square 730.88
+circle 569.17
+circle 1069.38
+triangle 730.26 983.82
+circle 288.73
+circle 520.91
+square 567.77
+circle 415.85
+triangle 452.71 789.71
+triangle 611.59 467.38
+triangle 636.51 1053.5
+triangle 242.47 791.99
+triangle 621.73 929.62
+circle 986.22
+triangle 208.61 620.38
+triangle 831.92 687.58
+circle 763.22
+triangle 643.73 620.01
+circle 381.04
+circle 166.69
+square 965.7
+circle 1033.19
+triangle 1039.1 813.6
+square 751.57
+square 523.92
+circle 240.66
+triangle 256.61 1091.66
+circle 494.53
+square 548.76
+triangle 273.71 1007.24
+triangle 1057.51 146.57
+triangle 940.49 854.04
+square 1015.68
+triangle 653.64 1003.8
+triangle 351.35 688.93
+triangle 1091.22 428.9
+triangle 781.05 522.98
